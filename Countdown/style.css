@@ -38,6 +38,9 @@ body {
     text-align: center;
 }
 
-.day, .hour, .minute, .second {
+.day, 
+.hour, 
+.minute, 
+.second {
     font-size: 2rem;
 }
